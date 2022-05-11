@@ -1,7 +1,7 @@
 public class CSE15LDemoRegrade {
 
   public static int multiplyTwoInts(int first, int second) {
-    return first + second;
+    return first * second;
   }
   
   public static void main(String[] args) {
